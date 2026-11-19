@@ -425,7 +425,7 @@ The following tasks are planned based on the current findings.
 
 ---
 
-## 13. Conclusion
+## 11. Conclusion
 
 The initial TraceLab investigation demonstrates that the dataset provides substantial application-level execution information for studying coding-agent workloads.
 
