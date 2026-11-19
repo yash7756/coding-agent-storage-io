@@ -18,11 +18,6 @@ The analysis focuses on:
 
 **Dataset:** `syfi_coding_trace.duckdb`
 
-**Database location:**
-
-```text
-datasets/raw/syfi_coding_trace.duckdb
-```
 ---
 
 ## 2. Research Context
