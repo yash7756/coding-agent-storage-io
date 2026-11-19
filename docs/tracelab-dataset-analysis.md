@@ -284,7 +284,7 @@ The validation output included the following examples:
 
 These examples demonstrate that unmatched tool-result events occur across multiple rounds.
 
-### 7.5 Important Observation
+### 7.4 Important Observation
 
 The difference between global matches and composite matches is:
 
@@ -298,7 +298,7 @@ There is therefore a difference of 33 events between the composite-unmatched cou
 
 This difference should be reconciled by inspecting the validation logic and the underlying event records rather than assuming that both categories are perfectly equivalent.
 
-### 7.6 Initial Interpretation
+### 7.5 Initial Interpretation
 
 The current results establish that tool-result relationships cannot always be reconstructed through same-round matching.
 
@@ -445,5 +445,3 @@ These results highlight the importance of understanding the relationship between
 The next priority is to investigate unmatched tool-result relationships and establish a reliable trace-to-workload mapping.
 
 Ultimately, the goal is to connect coding-agent execution behavior with measured storage I/O characteristics, develop session-level workload prediction, and evaluate storage saturation under concurrent agent workloads.
-
-**Current status:** Initial dataset exploration and relationship validation completed. Detailed relationship investigation and session-level workload characterization are the next priorities.
